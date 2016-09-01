@@ -13,7 +13,7 @@ Example:
 ##Other info:
 * nginx post : 80
 * config home: /home/src/app	
-*you can use volume to over that file*
+*you can use volume to over that file*  
 &emsp;&emsp; Gemfile  
 &emsp;&emsp; Capfile  
 &emsp;&emsp; config/deploy.rb  
