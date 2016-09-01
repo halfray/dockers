@@ -14,10 +14,10 @@ Example:
 * nginx post : 80
 * config home: /home/src/app	
 *you can use volume to over that file*
-	&emsp;&emsp; Gemfile
-	&emsp;&emsp; Capfile
-	&emsp;&emsp; config/deploy.rb
-	&emsp;&emsp; config/deploy/production.rb
+&emsp;&emsp; Gemfile  
+&emsp;&emsp; Capfile  
+&emsp;&emsp; config/deploy.rb  
+&emsp;&emsp; config/deploy/production.rb  
 * app home   : /home/app/www 
 * log 	   : /var/log/ 
 
