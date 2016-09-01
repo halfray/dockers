@@ -1,4 +1,4 @@
-# Git(get source code) + Capcapistranorb(CI) + Passenger (ruby server) 
+# Git(get source code) + Capcapistranorb(CI) + Passenger (rails server) 
 ## Do what
 when the docker container is starting , to get source from git ,then use cap to deploy to passenger
 
