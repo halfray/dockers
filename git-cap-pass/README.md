@@ -10,7 +10,7 @@ when the docker container is starting , to get source from git ,then use cap to 
 Example:
 `docker run -d --name  cap-pass -p 8081:80  -v /root/docker/gate_way.yml:/home/app/www/current/config/gate_way.yml --env APP_GIT_URL=https://github.com/halfray/wechat-gateway.git --env APP_BRANCH=master halfray/cap-pass`
 
-##Other info:
+## Other info:
 * nginx post : 80
 * config home: /home/src/app	
 *you can use volume to over that file*  
