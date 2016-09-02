@@ -20,8 +20,8 @@ Example:
 &emsp;&emsp; config/deploy/production.rb  
 * app home   : /home/app/www 
 *have these config files ,but all is defaults*
-&emsp;&emsp; /shared/application.yml  
-&emsp;&emsp; /shared/secrects.yml
-&emsp;&emsp;/shared/database.yml
+&emsp;&emsp; /shared/config/application.yml  
+&emsp;&emsp; /shared/config/secrects.yml
+&emsp;&emsp;/shared/config/database.yml
 * log 	   : /var/log/ 
 
