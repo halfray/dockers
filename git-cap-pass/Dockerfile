@@ -27,4 +27,4 @@ RUN apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 #add cap service
 RUN mkdir -p /etc/my_init.d
 COPY start.sh /etc/my_init.d/
-
+RUN chmod +x /etc/my_init.d/start.sh
